@@ -1,5 +1,5 @@
 
-# Movie Recommender System
+# Enhancing Movie Recommendations with Reinforcement Learning and Collaborative Filtering
 
 ## Overview
 
